@@ -1,6 +1,6 @@
 int mean()
 {
 
-  // do nothing
+  // do nothing and less
 
 }
