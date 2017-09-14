@@ -1,0 +1,6 @@
+int mean()
+{
+
+  // do nothing
+
+}
